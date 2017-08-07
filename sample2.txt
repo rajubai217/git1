@@ -1,1 +1,2 @@
 creation of second file in git for learning of git features
+create the branch BR0 for merge files
